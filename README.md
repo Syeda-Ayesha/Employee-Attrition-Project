@@ -1,1 +1,5 @@
 # Employee-Attrition-Project
+## Data
+This dataset is created by IBM data scientists.This includes records on which employees ended up attritioning and which didn't .We can use this information to construct an ML model to predict the attrition of an employee by the process called training.After training the model, we can pass the information of an arbitrary employee (the same information that we used to train the model) to the model, and have the model predict whether this employee is attritioning.
+
+The dataset we use is publicly available and can be access from [here](https://excelbianalytics.com/wp/downloads-21-sample-csv-files-data-sets-for-testing-till-5-million-records-hr-analytics-for-attrition/).The dataset has (1000000R X 37C) that contains numeric and categorical data types describing each employee’s background and characteristics; and labelled (supervised learning) with whether they are still in the company or whether they have gone to work somewhere else. Machine Learning models can help to understand and determine how these factors relate to workforce attrition. 

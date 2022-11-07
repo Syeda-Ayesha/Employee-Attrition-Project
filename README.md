@@ -16,11 +16,11 @@ The dataset we use is publicly available and can be access from [here](https://e
 *Feature Scaling(Normalization)
 ## 3)Employee Attrition feature selection:
 *Initial model building using evalML without feature selection
-###Feature Selection
-####Feature importance using random forest classifier (Selected top 21 features):
+### Feature Selection
+#### Feature importance using random forest classifier (Selected top 21 features):
 *comment: After selecting important features we applied some algorithms and most of them attain 50% accuracy.
 
-####Feature selection using SelectKBest (Selected top 15 features):
+#### Feature selection using SelectKBest (Selected top 15 features):
 *comment: Important features were selected using SelectKBest and we applied some algorithms and most of them attain 50% accuracy.
 
 ## 4)Employee Attrition Model-1:

@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import sklearn
 st.title("Employee Attrition Prediction")
 pickle_in = open('classifier1.pkl',"rb")
 classifier1 = pickle.load(pickle_in)

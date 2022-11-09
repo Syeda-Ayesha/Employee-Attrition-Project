@@ -39,8 +39,7 @@ comment: After performing feature selection most of the models encountered with 
 
 #### Model Building
 We have trained and tested various machine learning classification models.
-
-(https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/4/Employee%20Attrition%20Model-1.ipynb)
+https://github.com/Syeda-Ayesha/Employee-Attrition-Project/blob/main/4)%20Employee%20Attrition%20ML%20model.ipynb
 
 ### 5) Employee Attrition Model-2:
 As we were getting lower accuracy from the model-1, so we have developed this model-2 by creating a new column "attrition_within_a_year" using "YearsAtCompany" column, to see whether an employee get attritioned with in a year or not. We made this "attrition_within_a_year" feature as our dependent variable and dropped the "attrition" column from our dataset. Initially it was in imbalanced form, so for handling that we used a oversampling technique(SMOTE).

@@ -39,6 +39,7 @@ comment: After performing feature selection most of the models encountered with 
 
 #### Model Building
 We have trained and tested various machine learning classification models.
+
 (https://github.com/Syeda-Ayesha/Employee-Attrition-Project/blob/main/4)%20Employee%20Attrition%20ML%20model.ipynb)
 
 ### 5) Employee Attrition Model-2:
@@ -47,4 +48,4 @@ As we were getting lower accuracy from the model-1, so we have developed this mo
 #### Model Building
 We have trained and tested various machine learning classification models.
 
-(https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/5)Employee%20Attrition%20Model-2.ipynb)
+(https://github.com/Syeda-Ayesha/Employee-Attrition-Project/blob/main/5)%20Attrition%20within%20a%20year%20model.ipynb)

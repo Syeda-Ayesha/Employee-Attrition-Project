@@ -49,3 +49,5 @@ As we were getting lower accuracy from the model-1, so we have developed this mo
 We have trained and tested various machine learning classification models.
 
 (https://github.com/Syeda-Ayesha/Employee-Attrition-Project/blob/main/5)%20Attrition%20within%20a%20year%20model.ipynb)
+
+## This is available at [this](https://syeda-ayesha-employee-attrition-project-empmodel-s0n5cv.streamlit.app/) website.
